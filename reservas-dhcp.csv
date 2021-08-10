@@ -1,0 +1,4 @@
+ScopeId,IPAddress,Name,ClientId,Type,Description
+10.101.0.0,10.101.0.2,Impressora RH 1,00-26-73-c3-bb-b0,DHCP,Reserva impressora Modelo: RICOH MP C2004 -MULTIFUNCIONAL COLOR
+10.101.0.0,10.101.0.3,Impressora RH 2,9E-AC-d3-06-bc-79,DHCP,Reserva impressora Modelo: EPSON WF-5690 Series
+10.101.0.0,10.101.0.4,Impressora RH 3,3C-2A-F4-01-1C-51,DHCP,Reserva impressora Modelo: BROTHER HL-L5202DW
