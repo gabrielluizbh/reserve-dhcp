@@ -4,7 +4,7 @@
 
 Script de criação de reservas de ips no DHCP.ps1
 
-reservas-dhcp.csv (Modelo de arquivo .CSV para criação de reversa de IP no DHCP)
+reservas-dhcp.csv (Modelo de arquivo .CSV para criação de reversas de IPs no DHCP)
 
 **Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2021/08/reservas-dhcp-powershell/**
 
