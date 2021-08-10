@@ -2,7 +2,7 @@
 
 **Conteúdos:**
 
-Script de criação de reserva de ip no DHCP.ps1
+Script de criação de reservas de ips no DHCP.ps1
 
 reservas-dhcp.csv (Modelo de arquivo .CSV para criação de reversa de IP no DHCP)
 
