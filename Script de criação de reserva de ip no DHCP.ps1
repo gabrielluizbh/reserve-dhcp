@@ -50,4 +50,6 @@ https://docs.microsoft.com/en-us/powershell/module/servermanager/get-windowsfeat
 
 https://docs.microsoft.com/en-us/powershell/module/servermanager/install-windowsfeature?view=winserver2012r2-ps&WT.mc_id=WDIT-MVP-5003815
 
+https://docs.microsoft.com/pt-br/powershell/module/dhcpserver/?view=windowsserver2019-ps&WT.mc_id=WDIT-MVP-5003815
+
 #>
