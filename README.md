@@ -1,4 +1,4 @@
-# Script de criação de reserva de IP no DHCP
+# Script de criação de reservas de IPs no DHCP
 
 **Conteúdos:**
 
