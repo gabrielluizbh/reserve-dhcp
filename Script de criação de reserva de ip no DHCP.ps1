@@ -1,4 +1,4 @@
-﻿# Script de criação de reserva de IP no DHCP  - Créditos Gabriel Luiz - www.gabrielluiz.com ##
+﻿# Script de criação de reservas de IPs no DHCP  - Créditos Gabriel Luiz - www.gabrielluiz.com ##
 
 
 # Verifica as informações do escopo IPV4 já criado.
