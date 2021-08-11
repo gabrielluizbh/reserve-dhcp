@@ -1,6 +1,6 @@
 # Script de criação de reservas de IPs no DHCP
 
-**Conteúdos:**
+**Conteúdo:**
 
 Script de criação de reservas de ips no DHCP.ps1
 
